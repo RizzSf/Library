@@ -182,3 +182,5 @@ function Keylibrary:MakeWindow(Settings)
 
     MakeDraggable()
 end
+
+return Keylibrary
